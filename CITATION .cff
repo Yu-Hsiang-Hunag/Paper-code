@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Paper code
+message: If you want to use this code
+type: software
+date-released: 2022/03/10
+url: "https://github.com/Yu-Hsiang-Hunag/Paper-code"
+authors:
+  - given-names: Yu-Hsiang
+    family-names: Huang
